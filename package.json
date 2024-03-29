@@ -1,11 +1,10 @@
 {
-  "name": "proj2_atm",
+  "name": "atm2024",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin":"index.js",
-  
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "atm2024": "^1.0.0",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
