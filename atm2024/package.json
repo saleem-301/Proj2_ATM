@@ -1,6 +1,6 @@
 {
-  "name": "atm2024",
-  "version": "1.0.0",
+  "name": "myatm2024",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,12 +8,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "atm2024": "^1.0.0",
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.17"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"

@@ -1,9 +1,10 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 
 import inquirer from "inquirer";
 
 
 let balance = 50000;
+console.log('Pin Code is 1234')
 
 for (var pinCode = 0 ; pinCode != 1234 ; )
 {
